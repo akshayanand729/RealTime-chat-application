@@ -22,4 +22,4 @@ Some screenshots of the application</br>
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/51224796/95687943-4cb1aa80-0c24-11eb-94b8-dd0019ff68c4.png)
 
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Two people chatting in the application
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Two people chatting on the application
