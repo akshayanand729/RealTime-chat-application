@@ -1,4 +1,4 @@
-# chatapp
+# chat App
 
  A real time chat application  with username and   connection status   messages. Socket.io is  used to manage real  
  time web socket connections to a  node.js   server  that  will  allow us to communicate real   time messages to  all clients 
@@ -20,6 +20,6 @@ Some screenshots of the application</br>
 
  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;connection messages displayed
 
-![Screenshot (14)](https://user-images.githubusercontent.com/51224796/95681149-e0bb4c00-0bfb-11eb-8df3-1b4ff0255a0f.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/51224796/95687943-4cb1aa80-0c24-11eb-94b8-dd0019ff68c4.png)
 
  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Two people chatting in the application
